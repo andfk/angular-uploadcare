@@ -1,0 +1,29 @@
+{
+  "name": "angular-uploadcare",
+  "version": "0.2.0",
+  "description": "Provides a directive for the Uploadcare widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andfk/angular-uploadcare.git"
+  },
+  "keywords": [
+    "angular",
+    "uploadcare",
+    "directive",
+    "upload",
+    "file",
+    "image",
+    "cdn",
+    "media"
+  ],
+  "author": "Eric C. Brown <djheir@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uploadcare/angular-uploadcare/issues"
+  },
+  "homepage": "https://github.com/uploadcare/angular-uploadcare"
+}
